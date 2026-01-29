@@ -40,17 +40,17 @@ Für dein Projekt kannst du die folgenden Abschnitte in der `README.md` Datei an
 
 ---
 
-# [DEIN PROJEKTTITEL HIER] 🚀
+# KFZ Unfälle Datensatz 🚀
 
 > Eine kurze, prägnante Beschreibung deines Data Science Projekts in 1-2 Sätzen.
 
 ## 📊 Projektübersicht
 
 **Problemstellung:** 
-<!-- Beschreibe das Problem, das du lösen möchtest -->
+Dieser Datensatz enthält detaillierte Aufzeichnungen von Verkehrsunfällen, die sich im Januar 2021 ereignet haben. Er umfasst Informationen wie Unfalldatum, Wochentag, Verkehrsregelung an der Kreuzung, Unfallschwere, geografische Koordinaten, Licht- und Wetterverhältnisse, Fahrzeugdetails und vieles mehr. 
 
 **Ziel:** 
-<!-- Was ist das Hauptziel deines Projekts? -->
+Die Daten sind wertvoll für die Analyse und das Verständnis der Faktoren, die zu Verkehrsunfällen in diesem Stadtgebiet beitragen, und unterstützen die Entwicklung von Strategien zur Verbesserung der Verkehrssicherheit.
 
 **Methoden:** 
 <!-- Welche Techniken/Algorithmen verwendest du? -->
